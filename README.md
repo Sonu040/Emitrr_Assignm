@@ -2,9 +2,6 @@
 
 Live Demo: https://langlearntask.vercel.app <br/>
 Github Repository:(https://github.com/Sonu040/Emitrr_Assignm) <br/>
- 
-
-Original Github Accout:  
 
 ## Technologies used:
 - Typescript
