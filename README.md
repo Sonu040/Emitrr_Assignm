@@ -2,9 +2,9 @@
 
 Live Demo: https://langlearntask.vercel.app <br/>
 Github Repository: https://github.com/indisputable/emitrr-task <br/>
-Walkthrough Video: [Video](https://drive.google.com/file/d/1SusiUZ73GBydDhRMTF6ojqkOvYEphxA-/view?usp=sharing)
+ 
 
-Original Github Accout: https://github.com/tnmyk
+Original Github Accout:  
 
 ## Technologies used:
 - Typescript
@@ -14,9 +14,9 @@ Original Github Accout: https://github.com/tnmyk
 - TailwindCSS
 - Shadcn UI
 - Zod (schema validation)
-- Postgres on [NeonDB](https://neon.tech/)
+ 
 
-- Deployed on Vercel
+ 
 
 
 ## Features
